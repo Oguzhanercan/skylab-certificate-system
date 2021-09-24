@@ -21,7 +21,7 @@ put.content(img,content)
 put.qr(img)
 subject = "SKY LAB Academy" #mail subject
 img = img.save("img_flow/getready.png")
-print(data)
+
 for i in tqdm(range(len(data))):
     img = Image.open("img_flow/getready.png")
     user,mail_adress = get.user(data,i)

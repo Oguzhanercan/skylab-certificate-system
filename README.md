@@ -1,5 +1,5 @@
 # skylab-certificate-system
-Certificate generating and mailing system
+Through the this system, you can generate personalized certificates for people with name-surname-mail information in an excel file and send them e-mails.
 
 ## Certificate Template
 ![image](https://user-images.githubusercontent.com/64038202/134748451-7f4c1261-2733-4e03-9a33-9533f7b25295.png)
